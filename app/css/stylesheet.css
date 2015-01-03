@@ -44,7 +44,8 @@ height: 30%;
   position: center;
 }
 
-.footer {
+
+.navbar-fixed-bottom {
   margin-bottom: 0;
   bottom: 0;
   position: fixed;
@@ -53,10 +54,21 @@ height: 30%;
   margin: 0;
   padding: 10px 0;
   height: 50px;
-  background-color: #116D97; }
+  background-color: #116D97;
+}
+
+.clearfix {
+  margin-bottom: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: 0;
+  padding: 10px 0;
+  height: 50px;
+  background-color: #116D97;
 }
 
 .h4{
   font-size: 500%;
-  color: white;
+  color:;
 }
