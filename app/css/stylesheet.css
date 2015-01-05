@@ -1,8 +1,9 @@
 
 
 #ProfilePicture{
-
-
+width: 18em;
+height: 18em;
+vertical-align: middle;
 }
 
 #projpics {
@@ -34,7 +35,7 @@ height: 30%;
 }*/
 
 #socialButtons {
-   text-align: center;
+  text-align: center;
   vertical-align: middle;
 }
 
