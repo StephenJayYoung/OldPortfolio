@@ -35,7 +35,12 @@ height: 30%;
   position: center;
 }
 
+/*.navbar-inner {
+  position: fixed;
+}*/
 
+
+/*
 .navbar-fixed-bottom {
   margin-bottom: 0;
   bottom: 0;
@@ -57,7 +62,7 @@ height: 30%;
   padding: 10px 10px 10px;
   height: 100px;
   background-color: white;
-}
+}*/
 
 .h4{
   font-size: 500%;
